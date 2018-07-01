@@ -1,8 +1,6 @@
+# Ant Sky
 
-![](Art/logo.png)
-
-![](Art/Ant.png)
-
+![](Art/preview.png)
 
 #### Installation
 
@@ -17,5 +15,9 @@ gsettings set org.gnome.desktop.wm.preferences theme "Ant"
 or Change via distribution specific tool.
 
 ### Notes:
-* This theme is based on the [evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme).
-* Icon theme in the screenshot is [Boston](https://www.gnome-look.org/p/1012402/).
+
+* This theme is based on the [Ant](https://github.com/EliverLara/Ant).
+* Icon theme in the screenshot is [MacOS sierra ct](https://www.opendesktop.org/p/1210856/).
+* Many details still need to be polished.
+* I'm starting in the world of gtk-themes and I have a lot to learn.
+* **Enjoy it!**
