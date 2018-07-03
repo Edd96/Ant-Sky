@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Ant
+Name=Ant-Sky
 Comment=A flat and light theme with a modern look
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Ant
-MetacityTheme=Ant
+GtkTheme=Ant-Sky
+MetacityTheme=Ant-Sky
 IconTheme=Boston
 ButtonLayout=:minimize,maximize,close
